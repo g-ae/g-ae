@@ -1,4 +1,4 @@
-## Gonçalo Esteves
+### Gonçalo Esteves
 **Hey ! 🙌**
 Welcome to my GitHub profile. 🤗
 
