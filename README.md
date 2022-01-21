@@ -3,7 +3,7 @@
 Welcome to my GitHub profile. 🤗
 
 #### About me
-* 🗓️ I'm 17 years old 
+* 🗓️ 17 years old 
 * 🗒️ Studying development
 * 🌍 Live in Switzerland
 
