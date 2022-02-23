@@ -15,3 +15,7 @@ Welcome to my GitHub profile. 🤗
 * C# - Learned in school and done some off-school projects.
 * JavaScript - Self-taught by doing personal projects.
 * Python - Self-taught beginner level.
+
+#### Statistics
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=gonesteves)](https://github.com/anuraghazra/github-readme-stats)
