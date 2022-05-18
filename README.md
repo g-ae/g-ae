@@ -11,10 +11,12 @@ Welcome to my GitHub profile. 🤗
 * 📂 Created a dashboard with Power BI for a corporation so they can supervise their IT infrastructure.
 * 🎮 Created some bots that interact with APIs.
 
-#### Languages I'm interested in
-* C# - Learned in school and done some off-school projects.
-* JavaScript - Self-taught by doing personal projects.
-* Python - Self-taught beginner level.
+#### Some languages I know
+* C# - Learned in school and done some off-school projects
+* JavaScript - Self-taught by doing personal projects
+* Java - Learned in school (Console, Swing and Android)
+* Kotlin - Trying to learn it
+* Python - Self-taught beginner level
 
 #### Statistics
 
