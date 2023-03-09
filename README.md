@@ -1,15 +1,15 @@
 ### Gonçalo Esteves
-**Hey ! 🙌**
+**Hey ! 🙌**\
 Welcome to my GitHub profile. 🤗
 
 #### About me
 * 🗓️ 18 years old 
-* 🗒️ Studying development
+* 🗒️ Studying software development
 * 🌍 Live in Switzerland
 
 #### Things I've done
 * 📂 Created a dashboard with Power BI for a corporation so they can supervise their IT infrastructure.
-* 🎮 Created some bots that interact with APIs.
+* 🤖 Created some bots that interact with APIs.
 
 #### Some languages I know
 * C# - Learned in school and done some off-school projects
@@ -20,4 +20,4 @@ Welcome to my GitHub profile. 🤗
 
 #### Statistics
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gonesteves)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=g-ae)](https://github.com/anuraghazra/github-readme-stats)
