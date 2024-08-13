@@ -3,9 +3,8 @@
 Welcome to my GitHub profile. 🤗
 
 #### About me
-* 🗓️ 18 years old 
 * 🗒️ Studying software development
-* 🌍 Live in Switzerland
+* 🌍 Living in Switzerland
 
 #### Things I've done
 * 📂 Created a dashboard with Power BI for a corporation so they can supervise their IT infrastructure.
